@@ -2,6 +2,8 @@
 
 Experiments with ROS 2 (Kilted, Ubuntu 24.04, WSL) for learning robotics.
 
+<img width="1188" height="1001" alt="image" src="https://github.com/user-attachments/assets/da177c5a-42b6-405c-b342-b94c1836f5d3" />
+
 ## Packages
 
 ### `auto_turtle`
